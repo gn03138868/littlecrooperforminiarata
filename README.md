@@ -1,7 +1,7 @@
 # little cropper for miniARATA
 It is not easy to obtain 200X200 pixels images one by one. So we wrote a simple script for doing it.
 
-# Background of image collection
+Background of image collection
 
 We installed three scanners, each with dimensions of 216 × 296 mm2 (5,100 × 7,019 pixel^2) in Chamaecyparis obtusa (C. obtusa) forest at Kiryu Experimental Watershed (KEW) and Larix kaempferi (K. kaempferi) and Cryptomeria japonica (C. japonica) forests at Shinshu University, totalling 9 individuals.
 
