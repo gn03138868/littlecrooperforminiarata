@@ -1,5 +1,5 @@
 # little cropper for miniARATA
-It is not easy to obtain 200X200 pixels images one by one. So we wrote a simple script for doing it.
+It is not easy to obtain 200 × 200 pixel^2 images one by one. So we wrote a simple script for doing it.
 
 Background of image collection
 
