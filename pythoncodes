@@ -4,6 +4,9 @@
 # pip install pillow
 # in cmd
 
+import os
+from PIL import Image
+
 # Directory containing your input images
 input_directory = 'E:/Shitephen/plot5-hourly/20200814-sunny-original' 
 ## rewrite in your own path
